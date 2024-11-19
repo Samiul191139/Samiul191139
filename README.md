@@ -3,31 +3,44 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Samiul;I+love+to+code.;And+I+love+to+learn+as+well.;&center=true&width=500&height=50"></a>
 </p>
 
-
 <!---about me--->
 ## About Me
-"Hello there! 👋 I'm a Computer Science Engineering student with a passion for coding. My expertise lies in languages like C, C++, and C#. As a lifelong learner, I'm continuously striving to perfect my skills in these areas and exploring their depth.
 
-I'm keen on collaborating with enthusiastic developers and seizing opportunities to expand my fundamental knowledge while gaining practical experience. I'm all about the process of continuous learning and improvement, and I'm excited to engage in projects that challenge and expand my coding abilities.
+Hello there! 👋 I'm Samiul, a passionate Computer Science Engineering student with a strong foundation in coding. My expertise lies in languages such as C, C++, and C#. As a lifelong learner, I'm committed to continually improving my skills and exploring the depths of these programming languages.
 
-Let's connect, share ideas, and grow together in the vast world of software development!"
+I'm enthusiastic about collaborating with like-minded developers, seizing opportunities to broaden my knowledge base, and gaining hands-on experience. I'm driven by the process of continuous learning and improvement, and I'm eager to engage in projects that challenge and expand my coding abilities.
 
-I am happy to collaborate with enthusiastic developers.
+Let's connect, share ideas, and grow together in the ever-evolving world of software development!
 
 <!---skills--->
 ## Skills
-<img align="left" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<i class="devicon-cplusplus-line"><img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></i>
-<i class="devicon-cplusplus-line"><img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></i>
-<i class="devicon-cplusplus-line"><img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></i>
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="padding-right:10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40" style="padding-right:10px;" /> 
+</p>
+
 <br />
 
-#
 <!---contact--->
-## Contact me:
-[![Mail Badge](https://img.shields.io/badge/samikarim191139@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=samikarim191139@gmail.com)](mailto:samikarim191139@gmail.com)
-<a href="https://discord.com/users/612881557656436746" target="_blank"><img src="https://img.shields.io/badge/Samiul-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samiulkarim191139/" target="_blank"><img src="https://img.shields.io/badge/-Samiul Karim-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/@Samiul-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+## Contact Me
+
+<p align="left">
+  <a href="mailto:samikarim191139@gmail.com"><img src="https://img.shields.io/badge/samikarim191139@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://discord.com/users/612881557656436746" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+  <a href="https://www.linkedin.com/in/samiulkarim191139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
+</p>
