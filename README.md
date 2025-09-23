@@ -12,10 +12,6 @@ I'm enthusiastic about collaborating with like-minded developers, seizing opport
 
 Let's connect, share ideas, and grow together in the ever-evolving world of software development!
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Samiul191139/count.svg?"  />
-</div>
-
 <!---skills--->
 ## Skills
 
